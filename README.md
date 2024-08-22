@@ -1,4 +1,5 @@
 # Busy Bee Bot
+Current Number of Users: 17k+
 
 <img src="images/header.png" width="600" />
 
